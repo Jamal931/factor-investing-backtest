@@ -1,3 +1,6 @@
+
+<img width="1199" height="643" alt="Dashboard 1" src="https://github.com/user-attachments/assets/3c5607e5-f7bf-4c8f-860b-651989ba4ee6" />
+
 # Factor Investing Backtest
 
 A Python pipeline for backtesting a momentum-based factor investing strategy using a curated sample of S&P 500 stocks. The project fetches market data, ranks stocks by 12-month momentum, constructs winner and loser portfolios, compares performance to the SPY benchmark, and exports results for analysis.

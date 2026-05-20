@@ -8,7 +8,7 @@ from fredapi import Fred
 import os
 
 # ── FRED API KEY ──────────────────────────────────────────────
-FRED_API_KEY = "f90b841675f42ba3822737e78c24ff10"
+FRED_API_KEY = "paste your api key here"
 
 # ── S&P 500 TICKERS ───────────────────────────────────────────
 

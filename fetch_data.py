@@ -8,13 +8,10 @@ from fredapi import Fred
 import os
 
 # ── FRED API KEY ──────────────────────────────────────────────
-# Go to https://fred.stlouisfed.org/docs/api/api_key.html
-# Create a free account and get your API key, paste it here
 FRED_API_KEY = "f90b841675f42ba3822737e78c24ff10"
 
 # ── S&P 500 TICKERS ───────────────────────────────────────────
-# We are using a manageable list of large-cap S&P 500 stocks
-# across different sectors for our factor screen
+
 TICKERS = [
     "AAPL", "MSFT", "GOOGL", "AMZN", "META",   # Technology
     "JPM", "BAC", "GS", "WFC", "MS",            # Financials

@@ -1,0 +1,13 @@
+strategy,metric,value
+Winners (Q5),Annualized Return,0.1567093885119633
+Losers (Q1),Annualized Return,0.2048872029749748
+SPY,Annualized Return,0.1442737394248744
+Winners (Q5),Volatility,0.1489394022388959
+Losers (Q1),Volatility,0.298815583446863
+SPY,Volatility,0.1741343923199975
+Winners (Q5),Sharpe Ratio,1.052168775732056
+Losers (Q1),Sharpe Ratio,0.6856643840712177
+SPY,Sharpe Ratio,0.8285194986625632
+Winners (Q5),Max Drawdown,-0.0328393394902984
+Losers (Q1),Max Drawdown,-0.2315761985223036
+SPY,Max Drawdown,-0.1817537479112619
